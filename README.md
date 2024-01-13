@@ -21,3 +21,7 @@ python typewriter_effect.py
 
 You can change the `place='center'` value to make the text left or right aligned. The other settings are at the top of the script.
 
+
+
+https://github.com/mi1acl/typewriter-python/assets/148514875/a928c9f2-13ed-40e6-94ae-134a9078c1f3
+
