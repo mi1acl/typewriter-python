@@ -23,5 +23,6 @@ You can change the `place='center'` value to make the text left or right aligned
 
 
 
-https://github.com/mi1acl/typewriter-python/assets/148514875/a928c9f2-13ed-40e6-94ae-134a9078c1f3
 
+
+![ezgif-7-f32c3e130b](https://github.com/mi1acl/typewriter-python/assets/148514875/b65d0d2b-f1a8-483d-89db-7f0d9f1176f4)
